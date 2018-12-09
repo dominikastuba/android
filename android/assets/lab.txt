@@ -1,0 +1,15 @@
+???
+nakazJazdyProsto
+noEntry
+ostrzegawczyProgZwalniajacy
+zakazWjazdu
+asdf
+zakazSkretuWPrawo
+zakazZatrzymywania
+8
+przejscieDlaPieszych
+drogaZPierwszenstwem
+ruchOkrezny
+ograniczeniePredkosci30
+ogranieczeniePredkosci50
+stop
